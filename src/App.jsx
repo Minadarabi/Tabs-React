@@ -1,13 +1,13 @@
 
 import './App.css';
-import { Tab } from './Components/Tabs';
 
+import { TabsTest } from './Components/TabsTest';
 
 
 function App() {
   return (
     <div className="App">
-      <Tab />
+      <TabsTest />
    
 
     </div>

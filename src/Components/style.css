@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(195, 161, 227);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    text-align: center;
+}
+.buttons{
+    margin-top: 4rem;
+
+}
+span{
+    background-color: rgb(46, 20, 70);
+    color: aliceblue;
+    margin-right: 1rem;
+    cursor: pointer;
+    padding: 1rem;
+    border-radius: 7px;
+    transition: all .2s;
+}
+span:hover{
+    background-color: rgb(77, 96, 58);
+}
+.content{
+    margin-top: 3rem;
+}
